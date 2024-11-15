@@ -1,0 +1,1564 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BankAccountNS
+  name: BankAccountNS
+  href: api/BankAccountNS.html
+  commentId: N:BankAccountNS
+  fullName: BankAccountNS
+  nameWithType: BankAccountNS
+- uid: BankAccountNS.BankAccount
+  name: BankAccount
+  href: api/BankAccountNS.BankAccount.html
+  commentId: T:BankAccountNS.BankAccount
+  fullName: BankAccountNS.BankAccount
+  nameWithType: BankAccount
+- uid: BankAccountNS.BankAccount.#ctor(System.String,System.Double)
+  name: BankAccount(string, double)
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount__ctor_System_String_System_Double_
+  commentId: M:BankAccountNS.BankAccount.#ctor(System.String,System.Double)
+  name.vb: New(String, Double)
+  fullName: BankAccountNS.BankAccount.BankAccount(string, double)
+  fullName.vb: BankAccountNS.BankAccount.New(String, Double)
+  nameWithType: BankAccount.BankAccount(string, double)
+  nameWithType.vb: BankAccount.New(String, Double)
+- uid: BankAccountNS.BankAccount.#ctor*
+  name: BankAccount
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount__ctor_
+  commentId: Overload:BankAccountNS.BankAccount.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BankAccountNS.BankAccount.BankAccount
+  fullName.vb: BankAccountNS.BankAccount.New
+  nameWithType: BankAccount.BankAccount
+  nameWithType.vb: BankAccount.New
+- uid: BankAccountNS.BankAccount.Balance
+  name: Balance
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Balance
+  commentId: P:BankAccountNS.BankAccount.Balance
+  fullName: BankAccountNS.BankAccount.Balance
+  nameWithType: BankAccount.Balance
+- uid: BankAccountNS.BankAccount.Balance*
+  name: Balance
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Balance_
+  commentId: Overload:BankAccountNS.BankAccount.Balance
+  isSpec: "True"
+  fullName: BankAccountNS.BankAccount.Balance
+  nameWithType: BankAccount.Balance
+- uid: BankAccountNS.BankAccount.Credit(System.Double)
+  name: Credit(double)
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Credit_System_Double_
+  commentId: M:BankAccountNS.BankAccount.Credit(System.Double)
+  name.vb: Credit(Double)
+  fullName: BankAccountNS.BankAccount.Credit(double)
+  fullName.vb: BankAccountNS.BankAccount.Credit(Double)
+  nameWithType: BankAccount.Credit(double)
+  nameWithType.vb: BankAccount.Credit(Double)
+- uid: BankAccountNS.BankAccount.Credit*
+  name: Credit
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Credit_
+  commentId: Overload:BankAccountNS.BankAccount.Credit
+  isSpec: "True"
+  fullName: BankAccountNS.BankAccount.Credit
+  nameWithType: BankAccount.Credit
+- uid: BankAccountNS.BankAccount.CustomerName
+  name: CustomerName
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_CustomerName
+  commentId: P:BankAccountNS.BankAccount.CustomerName
+  fullName: BankAccountNS.BankAccount.CustomerName
+  nameWithType: BankAccount.CustomerName
+- uid: BankAccountNS.BankAccount.CustomerName*
+  name: CustomerName
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_CustomerName_
+  commentId: Overload:BankAccountNS.BankAccount.CustomerName
+  isSpec: "True"
+  fullName: BankAccountNS.BankAccount.CustomerName
+  nameWithType: BankAccount.CustomerName
+- uid: BankAccountNS.BankAccount.Debit(System.Double)
+  name: Debit(double)
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Debit_System_Double_
+  commentId: M:BankAccountNS.BankAccount.Debit(System.Double)
+  name.vb: Debit(Double)
+  fullName: BankAccountNS.BankAccount.Debit(double)
+  fullName.vb: BankAccountNS.BankAccount.Debit(Double)
+  nameWithType: BankAccount.Debit(double)
+  nameWithType.vb: BankAccount.Debit(Double)
+- uid: BankAccountNS.BankAccount.Debit*
+  name: Debit
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Debit_
+  commentId: Overload:BankAccountNS.BankAccount.Debit
+  isSpec: "True"
+  fullName: BankAccountNS.BankAccount.Debit
+  nameWithType: BankAccount.Debit
+- uid: BankAccountNS.BankAccount.DebitAmountExceedsBalanceMessage
+  name: DebitAmountExceedsBalanceMessage
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_DebitAmountExceedsBalanceMessage
+  commentId: F:BankAccountNS.BankAccount.DebitAmountExceedsBalanceMessage
+  fullName: BankAccountNS.BankAccount.DebitAmountExceedsBalanceMessage
+  nameWithType: BankAccount.DebitAmountExceedsBalanceMessage
+- uid: BankAccountNS.BankAccount.DebitAmountLessThanZeroMessage
+  name: DebitAmountLessThanZeroMessage
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_DebitAmountLessThanZeroMessage
+  commentId: F:BankAccountNS.BankAccount.DebitAmountLessThanZeroMessage
+  fullName: BankAccountNS.BankAccount.DebitAmountLessThanZeroMessage
+  nameWithType: BankAccount.DebitAmountLessThanZeroMessage
+- uid: BankAccountNS.BankAccount.Main
+  name: Main()
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Main
+  commentId: M:BankAccountNS.BankAccount.Main
+  fullName: BankAccountNS.BankAccount.Main()
+  nameWithType: BankAccount.Main()
+- uid: BankAccountNS.BankAccount.Main*
+  name: Main
+  href: api/BankAccountNS.BankAccount.html#BankAccountNS_BankAccount_Main_
+  commentId: Overload:BankAccountNS.BankAccount.Main
+  isSpec: "True"
+  fullName: BankAccountNS.BankAccount.Main
+  nameWithType: BankAccount.Main
+- uid: BankTests
+  name: BankTests
+  href: api/BankTests.html
+  commentId: N:BankTests
+  fullName: BankTests
+  nameWithType: BankTests
+- uid: BankTests.BankAccountsTests
+  name: BankAccountsTests
+  href: api/BankTests.BankAccountsTests.html
+  commentId: T:BankTests.BankAccountsTests
+  fullName: BankTests.BankAccountsTests
+  nameWithType: BankAccountsTests
+- uid: BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  name: Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  commentId: M:BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  fullName: BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+  nameWithType: BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+- uid: BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange*
+  name: Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange_
+  commentId: Overload:BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  isSpec: "True"
+  fullName: BankTests.BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  nameWithType: BankAccountsTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+- uid: BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  name: Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  commentId: M:BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  fullName: BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+  nameWithType: BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+- uid: BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange*
+  name: Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange_
+  commentId: Overload:BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  isSpec: "True"
+  fullName: BankTests.BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  nameWithType: BankAccountsTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+- uid: BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance
+  name: Debit_WithValidAmountUpdatesBalance()
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WithValidAmountUpdatesBalance
+  commentId: M:BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance
+  fullName: BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance()
+  nameWithType: BankAccountsTests.Debit_WithValidAmountUpdatesBalance()
+- uid: BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance*
+  name: Debit_WithValidAmountUpdatesBalance
+  href: api/BankTests.BankAccountsTests.html#BankTests_BankAccountsTests_Debit_WithValidAmountUpdatesBalance_
+  commentId: Overload:BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance
+  isSpec: "True"
+  fullName: BankTests.BankAccountsTests.Debit_WithValidAmountUpdatesBalance
+  nameWithType: BankAccountsTests.Debit_WithValidAmountUpdatesBalance
+- uid: BooseTesting
+  name: BooseTesting
+  href: api/BooseTesting.html
+  commentId: N:BooseTesting
+  fullName: BooseTesting
+  nameWithType: BooseTesting
+- uid: BooseTesting.AppCanvasBase
+  name: AppCanvasBase
+  href: api/BooseTesting.AppCanvasBase.html
+  commentId: T:BooseTesting.AppCanvasBase
+  fullName: BooseTesting.AppCanvasBase
+  nameWithType: AppCanvasBase
+- uid: BooseTesting.AppCanvasBase.#ctor(System.Int32,System.Int32)
+  name: AppCanvasBase(int, int)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.AppCanvasBase.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.AppCanvasBase.AppCanvasBase(int, int)
+  fullName.vb: BooseTesting.AppCanvasBase.New(Integer, Integer)
+  nameWithType: AppCanvasBase.AppCanvasBase(int, int)
+  nameWithType.vb: AppCanvasBase.New(Integer, Integer)
+- uid: BooseTesting.AppCanvasBase.#ctor*
+  name: AppCanvasBase
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase__ctor_
+  commentId: Overload:BooseTesting.AppCanvasBase.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.AppCanvasBase.AppCanvasBase
+  fullName.vb: BooseTesting.AppCanvasBase.New
+  nameWithType: AppCanvasBase.AppCanvasBase
+  nameWithType.vb: AppCanvasBase.New
+- uid: BooseTesting.AppCanvasBase.Circle(System.Int32)
+  name: Circle(int)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Circle_System_Int32_
+  commentId: M:BooseTesting.AppCanvasBase.Circle(System.Int32)
+  name.vb: Circle(Integer)
+  fullName: BooseTesting.AppCanvasBase.Circle(int)
+  fullName.vb: BooseTesting.AppCanvasBase.Circle(Integer)
+  nameWithType: AppCanvasBase.Circle(int)
+  nameWithType.vb: AppCanvasBase.Circle(Integer)
+- uid: BooseTesting.AppCanvasBase.Circle*
+  name: Circle
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Circle_
+  commentId: Overload:BooseTesting.AppCanvasBase.Circle
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.Circle
+  nameWithType: AppCanvasBase.Circle
+- uid: BooseTesting.AppCanvasBase.CurrentPen
+  name: CurrentPen
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_CurrentPen
+  commentId: F:BooseTesting.AppCanvasBase.CurrentPen
+  fullName: BooseTesting.AppCanvasBase.CurrentPen
+  nameWithType: AppCanvasBase.CurrentPen
+- uid: BooseTesting.AppCanvasBase.DrawingBitmap
+  name: DrawingBitmap
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_DrawingBitmap
+  commentId: F:BooseTesting.AppCanvasBase.DrawingBitmap
+  fullName: BooseTesting.AppCanvasBase.DrawingBitmap
+  nameWithType: AppCanvasBase.DrawingBitmap
+- uid: BooseTesting.AppCanvasBase.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_ExecuteCommands
+  commentId: M:BooseTesting.AppCanvasBase.ExecuteCommands
+  fullName: BooseTesting.AppCanvasBase.ExecuteCommands()
+  nameWithType: AppCanvasBase.ExecuteCommands()
+- uid: BooseTesting.AppCanvasBase.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_ExecuteCommands_
+  commentId: Overload:BooseTesting.AppCanvasBase.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.ExecuteCommands
+  nameWithType: AppCanvasBase.ExecuteCommands
+- uid: BooseTesting.AppCanvasBase.GetBitmap
+  name: GetBitmap()
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_GetBitmap
+  commentId: M:BooseTesting.AppCanvasBase.GetBitmap
+  fullName: BooseTesting.AppCanvasBase.GetBitmap()
+  nameWithType: AppCanvasBase.GetBitmap()
+- uid: BooseTesting.AppCanvasBase.GetBitmap*
+  name: GetBitmap
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_GetBitmap_
+  commentId: Overload:BooseTesting.AppCanvasBase.GetBitmap
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.GetBitmap
+  nameWithType: AppCanvasBase.GetBitmap
+- uid: BooseTesting.AppCanvasBase.Graphics
+  name: Graphics
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Graphics
+  commentId: F:BooseTesting.AppCanvasBase.Graphics
+  fullName: BooseTesting.AppCanvasBase.Graphics
+  nameWithType: AppCanvasBase.Graphics
+- uid: BooseTesting.AppCanvasBase.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_MoveTo_System_Int32_System_Int32_
+  commentId: M:BooseTesting.AppCanvasBase.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: BooseTesting.AppCanvasBase.MoveTo(int, int)
+  fullName.vb: BooseTesting.AppCanvasBase.MoveTo(Integer, Integer)
+  nameWithType: AppCanvasBase.MoveTo(int, int)
+  nameWithType.vb: AppCanvasBase.MoveTo(Integer, Integer)
+- uid: BooseTesting.AppCanvasBase.MoveTo*
+  name: MoveTo
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_MoveTo_
+  commentId: Overload:BooseTesting.AppCanvasBase.MoveTo
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.MoveTo
+  nameWithType: AppCanvasBase.MoveTo
+- uid: BooseTesting.AppCanvasBase.Rect(System.Int32,System.Int32)
+  name: Rect(int, int)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Rect_System_Int32_System_Int32_
+  commentId: M:BooseTesting.AppCanvasBase.Rect(System.Int32,System.Int32)
+  name.vb: Rect(Integer, Integer)
+  fullName: BooseTesting.AppCanvasBase.Rect(int, int)
+  fullName.vb: BooseTesting.AppCanvasBase.Rect(Integer, Integer)
+  nameWithType: AppCanvasBase.Rect(int, int)
+  nameWithType.vb: AppCanvasBase.Rect(Integer, Integer)
+- uid: BooseTesting.AppCanvasBase.Rect*
+  name: Rect
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Rect_
+  commentId: Overload:BooseTesting.AppCanvasBase.Rect
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.Rect
+  nameWithType: AppCanvasBase.Rect
+- uid: BooseTesting.AppCanvasBase.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:BooseTesting.AppCanvasBase.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: BooseTesting.AppCanvasBase.SetColour(int, int, int)
+  fullName.vb: BooseTesting.AppCanvasBase.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvasBase.SetColour(int, int, int)
+  nameWithType.vb: AppCanvasBase.SetColour(Integer, Integer, Integer)
+- uid: BooseTesting.AppCanvasBase.SetColour*
+  name: SetColour
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_SetColour_
+  commentId: Overload:BooseTesting.AppCanvasBase.SetColour
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.SetColour
+  nameWithType: AppCanvasBase.SetColour
+- uid: BooseTesting.AppCanvasBase.WriteText(System.String)
+  name: WriteText(string)
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_WriteText_System_String_
+  commentId: M:BooseTesting.AppCanvasBase.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: BooseTesting.AppCanvasBase.WriteText(string)
+  fullName.vb: BooseTesting.AppCanvasBase.WriteText(String)
+  nameWithType: AppCanvasBase.WriteText(string)
+  nameWithType.vb: AppCanvasBase.WriteText(String)
+- uid: BooseTesting.AppCanvasBase.WriteText*
+  name: WriteText
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_WriteText_
+  commentId: Overload:BooseTesting.AppCanvasBase.WriteText
+  isSpec: "True"
+  fullName: BooseTesting.AppCanvasBase.WriteText
+  nameWithType: AppCanvasBase.WriteText
+- uid: BooseTesting.AppCanvasBase.Xpos
+  name: Xpos
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Xpos
+  commentId: F:BooseTesting.AppCanvasBase.Xpos
+  fullName: BooseTesting.AppCanvasBase.Xpos
+  nameWithType: AppCanvasBase.Xpos
+- uid: BooseTesting.AppCanvasBase.Ypos
+  name: Ypos
+  href: api/BooseTesting.AppCanvasBase.html#BooseTesting_AppCanvasBase_Ypos
+  commentId: F:BooseTesting.AppCanvasBase.Ypos
+  fullName: BooseTesting.AppCanvasBase.Ypos
+  nameWithType: AppCanvasBase.Ypos
+- uid: BooseTesting.Form1
+  name: Form1
+  href: api/BooseTesting.Form1.html
+  commentId: T:BooseTesting.Form1
+  fullName: BooseTesting.Form1
+  nameWithType: Form1
+- uid: BooseTesting.Form1.#ctor
+  name: Form1()
+  href: api/BooseTesting.Form1.html#BooseTesting_Form1__ctor
+  commentId: M:BooseTesting.Form1.#ctor
+  name.vb: New()
+  fullName: BooseTesting.Form1.Form1()
+  fullName.vb: BooseTesting.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: BooseTesting.Form1.#ctor*
+  name: Form1
+  href: api/BooseTesting.Form1.html#BooseTesting_Form1__ctor_
+  commentId: Overload:BooseTesting.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.Form1.Form1
+  fullName.vb: BooseTesting.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: BooseTesting.Scenario1
+  name: Scenario1
+  href: api/BooseTesting.Scenario1.html
+  commentId: T:BooseTesting.Scenario1
+  fullName: BooseTesting.Scenario1
+  nameWithType: Scenario1
+- uid: BooseTesting.Scenario1.#ctor(System.Int32,System.Int32)
+  name: Scenario1(int, int)
+  href: api/BooseTesting.Scenario1.html#BooseTesting_Scenario1__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.Scenario1.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.Scenario1.Scenario1(int, int)
+  fullName.vb: BooseTesting.Scenario1.New(Integer, Integer)
+  nameWithType: Scenario1.Scenario1(int, int)
+  nameWithType.vb: Scenario1.New(Integer, Integer)
+- uid: BooseTesting.Scenario1.#ctor*
+  name: Scenario1
+  href: api/BooseTesting.Scenario1.html#BooseTesting_Scenario1__ctor_
+  commentId: Overload:BooseTesting.Scenario1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.Scenario1.Scenario1
+  fullName.vb: BooseTesting.Scenario1.New
+  nameWithType: Scenario1.Scenario1
+  nameWithType.vb: Scenario1.New
+- uid: BooseTesting.Scenario1.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.Scenario1.html#BooseTesting_Scenario1_ExecuteCommands
+  commentId: M:BooseTesting.Scenario1.ExecuteCommands
+  fullName: BooseTesting.Scenario1.ExecuteCommands()
+  nameWithType: Scenario1.ExecuteCommands()
+- uid: BooseTesting.Scenario1.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.Scenario1.html#BooseTesting_Scenario1_ExecuteCommands_
+  commentId: Overload:BooseTesting.Scenario1.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.Scenario1.ExecuteCommands
+  nameWithType: Scenario1.ExecuteCommands
+- uid: BooseTesting.Scenario2
+  name: Scenario2
+  href: api/BooseTesting.Scenario2.html
+  commentId: T:BooseTesting.Scenario2
+  fullName: BooseTesting.Scenario2
+  nameWithType: Scenario2
+- uid: BooseTesting.Scenario2.#ctor(System.Int32,System.Int32)
+  name: Scenario2(int, int)
+  href: api/BooseTesting.Scenario2.html#BooseTesting_Scenario2__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.Scenario2.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.Scenario2.Scenario2(int, int)
+  fullName.vb: BooseTesting.Scenario2.New(Integer, Integer)
+  nameWithType: Scenario2.Scenario2(int, int)
+  nameWithType.vb: Scenario2.New(Integer, Integer)
+- uid: BooseTesting.Scenario2.#ctor*
+  name: Scenario2
+  href: api/BooseTesting.Scenario2.html#BooseTesting_Scenario2__ctor_
+  commentId: Overload:BooseTesting.Scenario2.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.Scenario2.Scenario2
+  fullName.vb: BooseTesting.Scenario2.New
+  nameWithType: Scenario2.Scenario2
+  nameWithType.vb: Scenario2.New
+- uid: BooseTesting.Scenario2.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.Scenario2.html#BooseTesting_Scenario2_ExecuteCommands
+  commentId: M:BooseTesting.Scenario2.ExecuteCommands
+  fullName: BooseTesting.Scenario2.ExecuteCommands()
+  nameWithType: Scenario2.ExecuteCommands()
+- uid: BooseTesting.Scenario2.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.Scenario2.html#BooseTesting_Scenario2_ExecuteCommands_
+  commentId: Overload:BooseTesting.Scenario2.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.Scenario2.ExecuteCommands
+  nameWithType: Scenario2.ExecuteCommands
+- uid: BooseTesting.Scenario3
+  name: Scenario3
+  href: api/BooseTesting.Scenario3.html
+  commentId: T:BooseTesting.Scenario3
+  fullName: BooseTesting.Scenario3
+  nameWithType: Scenario3
+- uid: BooseTesting.Scenario3.#ctor(System.Int32,System.Int32)
+  name: Scenario3(int, int)
+  href: api/BooseTesting.Scenario3.html#BooseTesting_Scenario3__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.Scenario3.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.Scenario3.Scenario3(int, int)
+  fullName.vb: BooseTesting.Scenario3.New(Integer, Integer)
+  nameWithType: Scenario3.Scenario3(int, int)
+  nameWithType.vb: Scenario3.New(Integer, Integer)
+- uid: BooseTesting.Scenario3.#ctor*
+  name: Scenario3
+  href: api/BooseTesting.Scenario3.html#BooseTesting_Scenario3__ctor_
+  commentId: Overload:BooseTesting.Scenario3.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.Scenario3.Scenario3
+  fullName.vb: BooseTesting.Scenario3.New
+  nameWithType: Scenario3.Scenario3
+  nameWithType.vb: Scenario3.New
+- uid: BooseTesting.Scenario3.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.Scenario3.html#BooseTesting_Scenario3_ExecuteCommands
+  commentId: M:BooseTesting.Scenario3.ExecuteCommands
+  fullName: BooseTesting.Scenario3.ExecuteCommands()
+  nameWithType: Scenario3.ExecuteCommands()
+- uid: BooseTesting.Scenario3.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.Scenario3.html#BooseTesting_Scenario3_ExecuteCommands_
+  commentId: Overload:BooseTesting.Scenario3.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.Scenario3.ExecuteCommands
+  nameWithType: Scenario3.ExecuteCommands
+- uid: BooseTesting.Scenario4
+  name: Scenario4
+  href: api/BooseTesting.Scenario4.html
+  commentId: T:BooseTesting.Scenario4
+  fullName: BooseTesting.Scenario4
+  nameWithType: Scenario4
+- uid: BooseTesting.Scenario4.#ctor(System.Int32,System.Int32)
+  name: Scenario4(int, int)
+  href: api/BooseTesting.Scenario4.html#BooseTesting_Scenario4__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.Scenario4.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.Scenario4.Scenario4(int, int)
+  fullName.vb: BooseTesting.Scenario4.New(Integer, Integer)
+  nameWithType: Scenario4.Scenario4(int, int)
+  nameWithType.vb: Scenario4.New(Integer, Integer)
+- uid: BooseTesting.Scenario4.#ctor*
+  name: Scenario4
+  href: api/BooseTesting.Scenario4.html#BooseTesting_Scenario4__ctor_
+  commentId: Overload:BooseTesting.Scenario4.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.Scenario4.Scenario4
+  fullName.vb: BooseTesting.Scenario4.New
+  nameWithType: Scenario4.Scenario4
+  nameWithType.vb: Scenario4.New
+- uid: BooseTesting.Scenario4.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.Scenario4.html#BooseTesting_Scenario4_ExecuteCommands
+  commentId: M:BooseTesting.Scenario4.ExecuteCommands
+  fullName: BooseTesting.Scenario4.ExecuteCommands()
+  nameWithType: Scenario4.ExecuteCommands()
+- uid: BooseTesting.Scenario4.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.Scenario4.html#BooseTesting_Scenario4_ExecuteCommands_
+  commentId: Overload:BooseTesting.Scenario4.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.Scenario4.ExecuteCommands
+  nameWithType: Scenario4.ExecuteCommands
+- uid: BooseTesting.UnrestrictedForScenario
+  name: UnrestrictedForScenario
+  href: api/BooseTesting.UnrestrictedForScenario.html
+  commentId: T:BooseTesting.UnrestrictedForScenario
+  fullName: BooseTesting.UnrestrictedForScenario
+  nameWithType: UnrestrictedForScenario
+- uid: BooseTesting.UnrestrictedForScenario.#ctor(System.Int32,System.Int32)
+  name: UnrestrictedForScenario(int, int)
+  href: api/BooseTesting.UnrestrictedForScenario.html#BooseTesting_UnrestrictedForScenario__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.UnrestrictedForScenario.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.UnrestrictedForScenario.UnrestrictedForScenario(int, int)
+  fullName.vb: BooseTesting.UnrestrictedForScenario.New(Integer, Integer)
+  nameWithType: UnrestrictedForScenario.UnrestrictedForScenario(int, int)
+  nameWithType.vb: UnrestrictedForScenario.New(Integer, Integer)
+- uid: BooseTesting.UnrestrictedForScenario.#ctor*
+  name: UnrestrictedForScenario
+  href: api/BooseTesting.UnrestrictedForScenario.html#BooseTesting_UnrestrictedForScenario__ctor_
+  commentId: Overload:BooseTesting.UnrestrictedForScenario.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.UnrestrictedForScenario.UnrestrictedForScenario
+  fullName.vb: BooseTesting.UnrestrictedForScenario.New
+  nameWithType: UnrestrictedForScenario.UnrestrictedForScenario
+  nameWithType.vb: UnrestrictedForScenario.New
+- uid: BooseTesting.UnrestrictedForScenario.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.UnrestrictedForScenario.html#BooseTesting_UnrestrictedForScenario_ExecuteCommands
+  commentId: M:BooseTesting.UnrestrictedForScenario.ExecuteCommands
+  fullName: BooseTesting.UnrestrictedForScenario.ExecuteCommands()
+  nameWithType: UnrestrictedForScenario.ExecuteCommands()
+- uid: BooseTesting.UnrestrictedForScenario.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.UnrestrictedForScenario.html#BooseTesting_UnrestrictedForScenario_ExecuteCommands_
+  commentId: Overload:BooseTesting.UnrestrictedForScenario.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.UnrestrictedForScenario.ExecuteCommands
+  nameWithType: UnrestrictedForScenario.ExecuteCommands
+- uid: BooseTesting.UnrestrictedIfScenario1
+  name: UnrestrictedIfScenario1
+  href: api/BooseTesting.UnrestrictedIfScenario1.html
+  commentId: T:BooseTesting.UnrestrictedIfScenario1
+  fullName: BooseTesting.UnrestrictedIfScenario1
+  nameWithType: UnrestrictedIfScenario1
+- uid: BooseTesting.UnrestrictedIfScenario1.#ctor(System.Int32,System.Int32)
+  name: UnrestrictedIfScenario1(int, int)
+  href: api/BooseTesting.UnrestrictedIfScenario1.html#BooseTesting_UnrestrictedIfScenario1__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.UnrestrictedIfScenario1.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.UnrestrictedIfScenario1.UnrestrictedIfScenario1(int, int)
+  fullName.vb: BooseTesting.UnrestrictedIfScenario1.New(Integer, Integer)
+  nameWithType: UnrestrictedIfScenario1.UnrestrictedIfScenario1(int, int)
+  nameWithType.vb: UnrestrictedIfScenario1.New(Integer, Integer)
+- uid: BooseTesting.UnrestrictedIfScenario1.#ctor*
+  name: UnrestrictedIfScenario1
+  href: api/BooseTesting.UnrestrictedIfScenario1.html#BooseTesting_UnrestrictedIfScenario1__ctor_
+  commentId: Overload:BooseTesting.UnrestrictedIfScenario1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.UnrestrictedIfScenario1.UnrestrictedIfScenario1
+  fullName.vb: BooseTesting.UnrestrictedIfScenario1.New
+  nameWithType: UnrestrictedIfScenario1.UnrestrictedIfScenario1
+  nameWithType.vb: UnrestrictedIfScenario1.New
+- uid: BooseTesting.UnrestrictedIfScenario1.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.UnrestrictedIfScenario1.html#BooseTesting_UnrestrictedIfScenario1_ExecuteCommands
+  commentId: M:BooseTesting.UnrestrictedIfScenario1.ExecuteCommands
+  fullName: BooseTesting.UnrestrictedIfScenario1.ExecuteCommands()
+  nameWithType: UnrestrictedIfScenario1.ExecuteCommands()
+- uid: BooseTesting.UnrestrictedIfScenario1.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.UnrestrictedIfScenario1.html#BooseTesting_UnrestrictedIfScenario1_ExecuteCommands_
+  commentId: Overload:BooseTesting.UnrestrictedIfScenario1.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.UnrestrictedIfScenario1.ExecuteCommands
+  nameWithType: UnrestrictedIfScenario1.ExecuteCommands
+- uid: BooseTesting.UnrestrictedMethodScenario
+  name: UnrestrictedMethodScenario
+  href: api/BooseTesting.UnrestrictedMethodScenario.html
+  commentId: T:BooseTesting.UnrestrictedMethodScenario
+  fullName: BooseTesting.UnrestrictedMethodScenario
+  nameWithType: UnrestrictedMethodScenario
+- uid: BooseTesting.UnrestrictedMethodScenario.#ctor(System.Int32,System.Int32)
+  name: UnrestrictedMethodScenario(int, int)
+  href: api/BooseTesting.UnrestrictedMethodScenario.html#BooseTesting_UnrestrictedMethodScenario__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.UnrestrictedMethodScenario.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.UnrestrictedMethodScenario.UnrestrictedMethodScenario(int, int)
+  fullName.vb: BooseTesting.UnrestrictedMethodScenario.New(Integer, Integer)
+  nameWithType: UnrestrictedMethodScenario.UnrestrictedMethodScenario(int, int)
+  nameWithType.vb: UnrestrictedMethodScenario.New(Integer, Integer)
+- uid: BooseTesting.UnrestrictedMethodScenario.#ctor*
+  name: UnrestrictedMethodScenario
+  href: api/BooseTesting.UnrestrictedMethodScenario.html#BooseTesting_UnrestrictedMethodScenario__ctor_
+  commentId: Overload:BooseTesting.UnrestrictedMethodScenario.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.UnrestrictedMethodScenario.UnrestrictedMethodScenario
+  fullName.vb: BooseTesting.UnrestrictedMethodScenario.New
+  nameWithType: UnrestrictedMethodScenario.UnrestrictedMethodScenario
+  nameWithType.vb: UnrestrictedMethodScenario.New
+- uid: BooseTesting.UnrestrictedMethodScenario.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.UnrestrictedMethodScenario.html#BooseTesting_UnrestrictedMethodScenario_ExecuteCommands
+  commentId: M:BooseTesting.UnrestrictedMethodScenario.ExecuteCommands
+  fullName: BooseTesting.UnrestrictedMethodScenario.ExecuteCommands()
+  nameWithType: UnrestrictedMethodScenario.ExecuteCommands()
+- uid: BooseTesting.UnrestrictedMethodScenario.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.UnrestrictedMethodScenario.html#BooseTesting_UnrestrictedMethodScenario_ExecuteCommands_
+  commentId: Overload:BooseTesting.UnrestrictedMethodScenario.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.UnrestrictedMethodScenario.ExecuteCommands
+  nameWithType: UnrestrictedMethodScenario.ExecuteCommands
+- uid: BooseTesting.UnrestrictedWhileScenario
+  name: UnrestrictedWhileScenario
+  href: api/BooseTesting.UnrestrictedWhileScenario.html
+  commentId: T:BooseTesting.UnrestrictedWhileScenario
+  fullName: BooseTesting.UnrestrictedWhileScenario
+  nameWithType: UnrestrictedWhileScenario
+- uid: BooseTesting.UnrestrictedWhileScenario.#ctor(System.Int32,System.Int32)
+  name: UnrestrictedWhileScenario(int, int)
+  href: api/BooseTesting.UnrestrictedWhileScenario.html#BooseTesting_UnrestrictedWhileScenario__ctor_System_Int32_System_Int32_
+  commentId: M:BooseTesting.UnrestrictedWhileScenario.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: BooseTesting.UnrestrictedWhileScenario.UnrestrictedWhileScenario(int, int)
+  fullName.vb: BooseTesting.UnrestrictedWhileScenario.New(Integer, Integer)
+  nameWithType: UnrestrictedWhileScenario.UnrestrictedWhileScenario(int, int)
+  nameWithType.vb: UnrestrictedWhileScenario.New(Integer, Integer)
+- uid: BooseTesting.UnrestrictedWhileScenario.#ctor*
+  name: UnrestrictedWhileScenario
+  href: api/BooseTesting.UnrestrictedWhileScenario.html#BooseTesting_UnrestrictedWhileScenario__ctor_
+  commentId: Overload:BooseTesting.UnrestrictedWhileScenario.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BooseTesting.UnrestrictedWhileScenario.UnrestrictedWhileScenario
+  fullName.vb: BooseTesting.UnrestrictedWhileScenario.New
+  nameWithType: UnrestrictedWhileScenario.UnrestrictedWhileScenario
+  nameWithType.vb: UnrestrictedWhileScenario.New
+- uid: BooseTesting.UnrestrictedWhileScenario.ExecuteCommands
+  name: ExecuteCommands()
+  href: api/BooseTesting.UnrestrictedWhileScenario.html#BooseTesting_UnrestrictedWhileScenario_ExecuteCommands
+  commentId: M:BooseTesting.UnrestrictedWhileScenario.ExecuteCommands
+  fullName: BooseTesting.UnrestrictedWhileScenario.ExecuteCommands()
+  nameWithType: UnrestrictedWhileScenario.ExecuteCommands()
+- uid: BooseTesting.UnrestrictedWhileScenario.ExecuteCommands*
+  name: ExecuteCommands
+  href: api/BooseTesting.UnrestrictedWhileScenario.html#BooseTesting_UnrestrictedWhileScenario_ExecuteCommands_
+  commentId: Overload:BooseTesting.UnrestrictedWhileScenario.ExecuteCommands
+  isSpec: "True"
+  fullName: BooseTesting.UnrestrictedWhileScenario.ExecuteCommands
+  nameWithType: UnrestrictedWhileScenario.ExecuteCommands
+- uid: BooseTesting.VariablesManager
+  name: VariablesManager
+  href: api/BooseTesting.VariablesManager.html
+  commentId: T:BooseTesting.VariablesManager
+  fullName: BooseTesting.VariablesManager
+  nameWithType: VariablesManager
+- uid: BooseTesting.VariablesManager.ClearVariables
+  name: ClearVariables()
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_ClearVariables
+  commentId: M:BooseTesting.VariablesManager.ClearVariables
+  fullName: BooseTesting.VariablesManager.ClearVariables()
+  nameWithType: VariablesManager.ClearVariables()
+- uid: BooseTesting.VariablesManager.ClearVariables*
+  name: ClearVariables
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_ClearVariables_
+  commentId: Overload:BooseTesting.VariablesManager.ClearVariables
+  isSpec: "True"
+  fullName: BooseTesting.VariablesManager.ClearVariables
+  nameWithType: VariablesManager.ClearVariables
+- uid: BooseTesting.VariablesManager.GetAllVariables
+  name: GetAllVariables()
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_GetAllVariables
+  commentId: M:BooseTesting.VariablesManager.GetAllVariables
+  fullName: BooseTesting.VariablesManager.GetAllVariables()
+  nameWithType: VariablesManager.GetAllVariables()
+- uid: BooseTesting.VariablesManager.GetAllVariables*
+  name: GetAllVariables
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_GetAllVariables_
+  commentId: Overload:BooseTesting.VariablesManager.GetAllVariables
+  isSpec: "True"
+  fullName: BooseTesting.VariablesManager.GetAllVariables
+  nameWithType: VariablesManager.GetAllVariables
+- uid: BooseTesting.VariablesManager.SetVariable(System.String,System.Double)
+  name: SetVariable(string, double)
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_SetVariable_System_String_System_Double_
+  commentId: M:BooseTesting.VariablesManager.SetVariable(System.String,System.Double)
+  name.vb: SetVariable(String, Double)
+  fullName: BooseTesting.VariablesManager.SetVariable(string, double)
+  fullName.vb: BooseTesting.VariablesManager.SetVariable(String, Double)
+  nameWithType: VariablesManager.SetVariable(string, double)
+  nameWithType.vb: VariablesManager.SetVariable(String, Double)
+- uid: BooseTesting.VariablesManager.SetVariable*
+  name: SetVariable
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_SetVariable_
+  commentId: Overload:BooseTesting.VariablesManager.SetVariable
+  isSpec: "True"
+  fullName: BooseTesting.VariablesManager.SetVariable
+  nameWithType: VariablesManager.SetVariable
+- uid: BooseTesting.VariablesManager.TryGetVariable(System.String,System.Double@)
+  name: TryGetVariable(string, out double)
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_TryGetVariable_System_String_System_Double__
+  commentId: M:BooseTesting.VariablesManager.TryGetVariable(System.String,System.Double@)
+  name.vb: TryGetVariable(String, Double)
+  fullName: BooseTesting.VariablesManager.TryGetVariable(string, out double)
+  fullName.vb: BooseTesting.VariablesManager.TryGetVariable(String, Double)
+  nameWithType: VariablesManager.TryGetVariable(string, out double)
+  nameWithType.vb: VariablesManager.TryGetVariable(String, Double)
+- uid: BooseTesting.VariablesManager.TryGetVariable*
+  name: TryGetVariable
+  href: api/BooseTesting.VariablesManager.html#BooseTesting_VariablesManager_TryGetVariable_
+  commentId: Overload:BooseTesting.VariablesManager.TryGetVariable
+  isSpec: "True"
+  fullName: BooseTesting.VariablesManager.TryGetVariable
+  nameWithType: VariablesManager.TryGetVariable
+- uid: Shubz_ASE
+  name: Shubz_ASE
+  href: api/Shubz_ASE.html
+  commentId: N:Shubz_ASE
+  fullName: Shubz_ASE
+  nameWithType: Shubz_ASE
+- uid: Shubz_ASE.AppCanvas
+  name: AppCanvas
+  href: api/Shubz_ASE.AppCanvas.html
+  commentId: T:Shubz_ASE.AppCanvas
+  fullName: Shubz_ASE.AppCanvas
+  nameWithType: AppCanvas
+- uid: Shubz_ASE.AppCanvas.#ctor
+  name: AppCanvas()
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas__ctor
+  commentId: M:Shubz_ASE.AppCanvas.#ctor
+  name.vb: New()
+  fullName: Shubz_ASE.AppCanvas.AppCanvas()
+  fullName.vb: Shubz_ASE.AppCanvas.New()
+  nameWithType: AppCanvas.AppCanvas()
+  nameWithType.vb: AppCanvas.New()
+- uid: Shubz_ASE.AppCanvas.#ctor(System.Int32,System.Int32)
+  name: AppCanvas(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas__ctor_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.AppCanvas(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.New(Integer, Integer)
+  nameWithType: AppCanvas.AppCanvas(int, int)
+  nameWithType.vb: AppCanvas.New(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.#ctor*
+  name: AppCanvas
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas__ctor_
+  commentId: Overload:Shubz_ASE.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Shubz_ASE.AppCanvas.AppCanvas
+  fullName.vb: Shubz_ASE.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: Shubz_ASE.AppCanvas.BrushThickness
+  name: BrushThickness
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_BrushThickness
+  commentId: P:Shubz_ASE.AppCanvas.BrushThickness
+  fullName: Shubz_ASE.AppCanvas.BrushThickness
+  nameWithType: AppCanvas.BrushThickness
+- uid: Shubz_ASE.AppCanvas.BrushThickness*
+  name: BrushThickness
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_BrushThickness_
+  commentId: Overload:Shubz_ASE.AppCanvas.BrushThickness
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.BrushThickness
+  nameWithType: AppCanvas.BrushThickness
+- uid: Shubz_ASE.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:Shubz_ASE.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: Shubz_ASE.AppCanvas.Circle(int, bool)
+  fullName.vb: Shubz_ASE.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: Shubz_ASE.AppCanvas.Circle*
+  name: Circle
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Circle_
+  commentId: Overload:Shubz_ASE.AppCanvas.Circle
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: Shubz_ASE.AppCanvas.Clear
+  name: Clear()
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Clear
+  commentId: M:Shubz_ASE.AppCanvas.Clear
+  fullName: Shubz_ASE.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: Shubz_ASE.AppCanvas.Clear*
+  name: Clear
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Clear_
+  commentId: Overload:Shubz_ASE.AppCanvas.Clear
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: Shubz_ASE.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.DrawTo(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.DrawTo*
+  name: DrawTo
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_DrawTo_
+  commentId: Overload:Shubz_ASE.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: Shubz_ASE.AppCanvas.GetPixel(System.Int32,System.Int32)
+  name: GetPixel(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_GetPixel_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.GetPixel(System.Int32,System.Int32)
+  name.vb: GetPixel(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.GetPixel(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.GetPixel(Integer, Integer)
+  nameWithType: AppCanvas.GetPixel(int, int)
+  nameWithType.vb: AppCanvas.GetPixel(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.GetPixel*
+  name: GetPixel
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_GetPixel_
+  commentId: Overload:Shubz_ASE.AppCanvas.GetPixel
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.GetPixel
+  nameWithType: AppCanvas.GetPixel
+- uid: Shubz_ASE.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.MoveTo(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.MoveTo*
+  name: MoveTo
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_MoveTo_
+  commentId: Overload:Shubz_ASE.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: Shubz_ASE.AppCanvas.PenColour
+  name: PenColour
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_PenColour
+  commentId: P:Shubz_ASE.AppCanvas.PenColour
+  fullName: Shubz_ASE.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Shubz_ASE.AppCanvas.PenColour*
+  name: PenColour
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_PenColour_
+  commentId: Overload:Shubz_ASE.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Shubz_ASE.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Shubz_ASE.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: Shubz_ASE.AppCanvas.Rect(int, int, bool)
+  fullName.vb: Shubz_ASE.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: Shubz_ASE.AppCanvas.Rect*
+  name: Rect
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Rect_
+  commentId: Overload:Shubz_ASE.AppCanvas.Rect
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: Shubz_ASE.AppCanvas.Reset
+  name: Reset()
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Reset
+  commentId: M:Shubz_ASE.AppCanvas.Reset
+  fullName: Shubz_ASE.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: Shubz_ASE.AppCanvas.Reset*
+  name: Reset
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Reset_
+  commentId: Overload:Shubz_ASE.AppCanvas.Reset
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: Shubz_ASE.AppCanvas.SaveCanvas(System.String)
+  name: SaveCanvas(string)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SaveCanvas_System_String_
+  commentId: M:Shubz_ASE.AppCanvas.SaveCanvas(System.String)
+  name.vb: SaveCanvas(String)
+  fullName: Shubz_ASE.AppCanvas.SaveCanvas(string)
+  fullName.vb: Shubz_ASE.AppCanvas.SaveCanvas(String)
+  nameWithType: AppCanvas.SaveCanvas(string)
+  nameWithType.vb: AppCanvas.SaveCanvas(String)
+- uid: Shubz_ASE.AppCanvas.SaveCanvas*
+  name: SaveCanvas
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SaveCanvas_
+  commentId: Overload:Shubz_ASE.AppCanvas.SaveCanvas
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.SaveCanvas
+  nameWithType: AppCanvas.SaveCanvas
+- uid: Shubz_ASE.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.Set(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.Set*
+  name: Set
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Set_
+  commentId: Overload:Shubz_ASE.AppCanvas.Set
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: Shubz_ASE.AppCanvas.SetBrushThickness(System.Single)
+  name: SetBrushThickness(float)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SetBrushThickness_System_Single_
+  commentId: M:Shubz_ASE.AppCanvas.SetBrushThickness(System.Single)
+  name.vb: SetBrushThickness(Single)
+  fullName: Shubz_ASE.AppCanvas.SetBrushThickness(float)
+  fullName.vb: Shubz_ASE.AppCanvas.SetBrushThickness(Single)
+  nameWithType: AppCanvas.SetBrushThickness(float)
+  nameWithType.vb: AppCanvas.SetBrushThickness(Single)
+- uid: Shubz_ASE.AppCanvas.SetBrushThickness*
+  name: SetBrushThickness
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SetBrushThickness_
+  commentId: Overload:Shubz_ASE.AppCanvas.SetBrushThickness
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.SetBrushThickness
+  nameWithType: AppCanvas.SetBrushThickness
+- uid: Shubz_ASE.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.SetColour(int, int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.SetColour*
+  name: SetColour
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_SetColour_
+  commentId: Overload:Shubz_ASE.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: Shubz_ASE.AppCanvas.StartApiServer
+  name: StartApiServer()
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_StartApiServer
+  commentId: M:Shubz_ASE.AppCanvas.StartApiServer
+  fullName: Shubz_ASE.AppCanvas.StartApiServer()
+  nameWithType: AppCanvas.StartApiServer()
+- uid: Shubz_ASE.AppCanvas.StartApiServer*
+  name: StartApiServer
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_StartApiServer_
+  commentId: Overload:Shubz_ASE.AppCanvas.StartApiServer
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.StartApiServer
+  nameWithType: AppCanvas.StartApiServer
+- uid: Shubz_ASE.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:Shubz_ASE.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: Shubz_ASE.AppCanvas.Tri(int, int)
+  fullName.vb: Shubz_ASE.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: Shubz_ASE.AppCanvas.Tri*
+  name: Tri
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Tri_
+  commentId: Overload:Shubz_ASE.AppCanvas.Tri
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: Shubz_ASE.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_WriteText_System_String_
+  commentId: M:Shubz_ASE.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: Shubz_ASE.AppCanvas.WriteText(string)
+  fullName.vb: Shubz_ASE.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: Shubz_ASE.AppCanvas.WriteText*
+  name: WriteText
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_WriteText_
+  commentId: Overload:Shubz_ASE.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: Shubz_ASE.AppCanvas.Xpos
+  name: Xpos
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Xpos
+  commentId: P:Shubz_ASE.AppCanvas.Xpos
+  fullName: Shubz_ASE.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Shubz_ASE.AppCanvas.Xpos*
+  name: Xpos
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Xpos_
+  commentId: Overload:Shubz_ASE.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Shubz_ASE.AppCanvas.Ypos
+  name: Ypos
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Ypos
+  commentId: P:Shubz_ASE.AppCanvas.Ypos
+  fullName: Shubz_ASE.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Shubz_ASE.AppCanvas.Ypos*
+  name: Ypos
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_Ypos_
+  commentId: Overload:Shubz_ASE.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Shubz_ASE.AppCanvas.getBitmap
+  name: getBitmap()
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_getBitmap
+  commentId: M:Shubz_ASE.AppCanvas.getBitmap
+  fullName: Shubz_ASE.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: Shubz_ASE.AppCanvas.getBitmap*
+  name: getBitmap
+  href: api/Shubz_ASE.AppCanvas.html#Shubz_ASE_AppCanvas_getBitmap_
+  commentId: Overload:Shubz_ASE.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: Shubz_ASE.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: Shubz_ASE.Form1
+  name: Form1
+  href: api/Shubz_ASE.Form1.html
+  commentId: T:Shubz_ASE.Form1
+  fullName: Shubz_ASE.Form1
+  nameWithType: Form1
+- uid: Shubz_ASE.Form1.#ctor
+  name: Form1()
+  href: api/Shubz_ASE.Form1.html#Shubz_ASE_Form1__ctor
+  commentId: M:Shubz_ASE.Form1.#ctor
+  name.vb: New()
+  fullName: Shubz_ASE.Form1.Form1()
+  fullName.vb: Shubz_ASE.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: Shubz_ASE.Form1.#ctor*
+  name: Form1
+  href: api/Shubz_ASE.Form1.html#Shubz_ASE_Form1__ctor_
+  commentId: Overload:Shubz_ASE.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Shubz_ASE.Form1.Form1
+  fullName.vb: Shubz_ASE.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: UnitTesting
+  name: UnitTesting
+  href: api/UnitTesting.html
+  commentId: N:UnitTesting
+  fullName: UnitTesting
+  nameWithType: UnitTesting
+- uid: UnitTesting.AppCanvasTests
+  name: AppCanvasTests
+  href: api/UnitTesting.AppCanvasTests.html
+  commentId: T:UnitTesting.AppCanvasTests
+  fullName: UnitTesting.AppCanvasTests
+  nameWithType: AppCanvasTests
+- uid: UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas
+  name: Circle_ShouldDrawCircleOnCanvas()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Circle_ShouldDrawCircleOnCanvas
+  commentId: M:UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas
+  fullName: UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas()
+  nameWithType: AppCanvasTests.Circle_ShouldDrawCircleOnCanvas()
+- uid: UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas*
+  name: Circle_ShouldDrawCircleOnCanvas
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Circle_ShouldDrawCircleOnCanvas_
+  commentId: Overload:UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Circle_ShouldDrawCircleOnCanvas
+  nameWithType: AppCanvasTests.Circle_ShouldDrawCircleOnCanvas
+- uid: UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas
+  name: Clear_ShouldResetCanvas()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Clear_ShouldResetCanvas
+  commentId: M:UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas
+  fullName: UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas()
+  nameWithType: AppCanvasTests.Clear_ShouldResetCanvas()
+- uid: UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas*
+  name: Clear_ShouldResetCanvas
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Clear_ShouldResetCanvas_
+  commentId: Overload:UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Clear_ShouldResetCanvas
+  nameWithType: AppCanvasTests.Clear_ShouldResetCanvas
+- uid: UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError
+  name: DrawElephant_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawElephant_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.DrawElephant_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError*
+  name: DrawElephant_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawElephant_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawElephant_ShouldNotThrowError
+  nameWithType: AppCanvasTests.DrawElephant_ShouldNotThrowError
+- uid: UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError
+  name: DrawFish_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawFish_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.DrawFish_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError*
+  name: DrawFish_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawFish_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawFish_ShouldNotThrowError
+  nameWithType: AppCanvasTests.DrawFish_ShouldNotThrowError
+- uid: UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError
+  name: DrawLion_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawLion_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.DrawLion_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError*
+  name: DrawLion_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawLion_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawLion_ShouldNotThrowError
+  nameWithType: AppCanvasTests.DrawLion_ShouldNotThrowError
+- uid: UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError
+  name: DrawStar_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawStar_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.DrawStar_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError*
+  name: DrawStar_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawStar_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawStar_ShouldNotThrowError
+  nameWithType: AppCanvasTests.DrawStar_ShouldNotThrowError
+- uid: UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition
+  name: DrawTo_ShouldUpdatePosition()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawTo_ShouldUpdatePosition
+  commentId: M:UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition
+  fullName: UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition()
+  nameWithType: AppCanvasTests.DrawTo_ShouldUpdatePosition()
+- uid: UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition*
+  name: DrawTo_ShouldUpdatePosition
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawTo_ShouldUpdatePosition_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawTo_ShouldUpdatePosition
+  nameWithType: AppCanvasTests.DrawTo_ShouldUpdatePosition
+- uid: UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError
+  name: DrawWhale_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawWhale_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.DrawWhale_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError*
+  name: DrawWhale_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_DrawWhale_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.DrawWhale_ShouldNotThrowError
+  nameWithType: AppCanvasTests.DrawWhale_ShouldNotThrowError
+- uid: UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition
+  name: MoveTo_ShouldUpdatePosition()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_MoveTo_ShouldUpdatePosition
+  commentId: M:UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition
+  fullName: UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition()
+  nameWithType: AppCanvasTests.MoveTo_ShouldUpdatePosition()
+- uid: UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition*
+  name: MoveTo_ShouldUpdatePosition
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_MoveTo_ShouldUpdatePosition_
+  commentId: Overload:UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.MoveTo_ShouldUpdatePosition
+  nameWithType: AppCanvasTests.MoveTo_ShouldUpdatePosition
+- uid: UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas
+  name: Rect_ShouldDrawRectangleOnCanvas()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Rect_ShouldDrawRectangleOnCanvas
+  commentId: M:UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas
+  fullName: UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas()
+  nameWithType: AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas()
+- uid: UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas*
+  name: Rect_ShouldDrawRectangleOnCanvas
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Rect_ShouldDrawRectangleOnCanvas_
+  commentId: Overload:UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas
+  nameWithType: AppCanvasTests.Rect_ShouldDrawRectangleOnCanvas
+- uid: UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings
+  name: Reset_ShouldResetPositionAndSettings()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Reset_ShouldResetPositionAndSettings
+  commentId: M:UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings
+  fullName: UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings()
+  nameWithType: AppCanvasTests.Reset_ShouldResetPositionAndSettings()
+- uid: UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings*
+  name: Reset_ShouldResetPositionAndSettings
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Reset_ShouldResetPositionAndSettings_
+  commentId: Overload:UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Reset_ShouldResetPositionAndSettings
+  nameWithType: AppCanvasTests.Reset_ShouldResetPositionAndSettings
+- uid: UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness
+  name: SetBrushThickness_ShouldChangeThickness()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_SetBrushThickness_ShouldChangeThickness
+  commentId: M:UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness
+  fullName: UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness()
+  nameWithType: AppCanvasTests.SetBrushThickness_ShouldChangeThickness()
+- uid: UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness*
+  name: SetBrushThickness_ShouldChangeThickness
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_SetBrushThickness_ShouldChangeThickness_
+  commentId: Overload:UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.SetBrushThickness_ShouldChangeThickness
+  nameWithType: AppCanvasTests.SetBrushThickness_ShouldChangeThickness
+- uid: UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour
+  name: SetColour_ShouldUpdatePenColour()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_SetColour_ShouldUpdatePenColour
+  commentId: M:UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour
+  fullName: UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour()
+  nameWithType: AppCanvasTests.SetColour_ShouldUpdatePenColour()
+- uid: UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour*
+  name: SetColour_ShouldUpdatePenColour
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_SetColour_ShouldUpdatePenColour_
+  commentId: Overload:UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.SetColour_ShouldUpdatePenColour
+  nameWithType: AppCanvasTests.SetColour_ShouldUpdatePenColour
+- uid: UnitTesting.AppCanvasTests.Setup
+  name: Setup()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Setup
+  commentId: M:UnitTesting.AppCanvasTests.Setup
+  fullName: UnitTesting.AppCanvasTests.Setup()
+  nameWithType: AppCanvasTests.Setup()
+- uid: UnitTesting.AppCanvasTests.Setup*
+  name: Setup
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Setup_
+  commentId: Overload:UnitTesting.AppCanvasTests.Setup
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Setup
+  nameWithType: AppCanvasTests.Setup
+- uid: UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas
+  name: Tri_ShouldDrawTriangleOnCanvas()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Tri_ShouldDrawTriangleOnCanvas
+  commentId: M:UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas
+  fullName: UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas()
+  nameWithType: AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas()
+- uid: UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas*
+  name: Tri_ShouldDrawTriangleOnCanvas
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_Tri_ShouldDrawTriangleOnCanvas_
+  commentId: Overload:UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas
+  nameWithType: AppCanvasTests.Tri_ShouldDrawTriangleOnCanvas
+- uid: UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction
+  name: UndoCommand_ShouldUndoLastDrawingAction()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_UndoCommand_ShouldUndoLastDrawingAction
+  commentId: M:UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction
+  fullName: UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction()
+  nameWithType: AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction()
+- uid: UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction*
+  name: UndoCommand_ShouldUndoLastDrawingAction
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_UndoCommand_ShouldUndoLastDrawingAction_
+  commentId: Overload:UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction
+  nameWithType: AppCanvasTests.UndoCommand_ShouldUndoLastDrawingAction
+- uid: UnitTesting.AppCanvasTests.VerifyPixelColor
+  name: VerifyPixelColor()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_VerifyPixelColor
+  commentId: M:UnitTesting.AppCanvasTests.VerifyPixelColor
+  fullName: UnitTesting.AppCanvasTests.VerifyPixelColor()
+  nameWithType: AppCanvasTests.VerifyPixelColor()
+- uid: UnitTesting.AppCanvasTests.VerifyPixelColor*
+  name: VerifyPixelColor
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_VerifyPixelColor_
+  commentId: Overload:UnitTesting.AppCanvasTests.VerifyPixelColor
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.VerifyPixelColor
+  nameWithType: AppCanvasTests.VerifyPixelColor
+- uid: UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError
+  name: WriteText_ShouldNotThrowError()
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_WriteText_ShouldNotThrowError
+  commentId: M:UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError
+  fullName: UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError()
+  nameWithType: AppCanvasTests.WriteText_ShouldNotThrowError()
+- uid: UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError*
+  name: WriteText_ShouldNotThrowError
+  href: api/UnitTesting.AppCanvasTests.html#UnitTesting_AppCanvasTests_WriteText_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.AppCanvasTests.WriteText_ShouldNotThrowError
+  nameWithType: AppCanvasTests.WriteText_ShouldNotThrowError
+- uid: UnitTesting.IAppCanvas
+  name: IAppCanvas
+  href: api/UnitTesting.IAppCanvas.html
+  commentId: T:UnitTesting.IAppCanvas
+  fullName: UnitTesting.IAppCanvas
+  nameWithType: IAppCanvas
+- uid: UnitTesting.IAppCanvas.Clear
+  name: Clear()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Clear
+  commentId: M:UnitTesting.IAppCanvas.Clear
+  fullName: UnitTesting.IAppCanvas.Clear()
+  nameWithType: IAppCanvas.Clear()
+- uid: UnitTesting.IAppCanvas.Clear*
+  name: Clear
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Clear_
+  commentId: Overload:UnitTesting.IAppCanvas.Clear
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Clear
+  nameWithType: IAppCanvas.Clear
+- uid: UnitTesting.IAppCanvas.Clear_ShouldResetCanvas
+  name: Clear_ShouldResetCanvas()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Clear_ShouldResetCanvas
+  commentId: M:UnitTesting.IAppCanvas.Clear_ShouldResetCanvas
+  fullName: UnitTesting.IAppCanvas.Clear_ShouldResetCanvas()
+  nameWithType: IAppCanvas.Clear_ShouldResetCanvas()
+- uid: UnitTesting.IAppCanvas.Clear_ShouldResetCanvas*
+  name: Clear_ShouldResetCanvas
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Clear_ShouldResetCanvas_
+  commentId: Overload:UnitTesting.IAppCanvas.Clear_ShouldResetCanvas
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Clear_ShouldResetCanvas
+  nameWithType: IAppCanvas.Clear_ShouldResetCanvas
+- uid: UnitTesting.IAppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:UnitTesting.IAppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: UnitTesting.IAppCanvas.DrawTo(int, int)
+  fullName.vb: UnitTesting.IAppCanvas.DrawTo(Integer, Integer)
+  nameWithType: IAppCanvas.DrawTo(int, int)
+  nameWithType.vb: IAppCanvas.DrawTo(Integer, Integer)
+- uid: UnitTesting.IAppCanvas.DrawTo*
+  name: DrawTo
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_DrawTo_
+  commentId: Overload:UnitTesting.IAppCanvas.DrawTo
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.DrawTo
+  nameWithType: IAppCanvas.DrawTo
+- uid: UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition
+  name: DrawTo_ShouldUpdatePosition()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_DrawTo_ShouldUpdatePosition
+  commentId: M:UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition
+  fullName: UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition()
+  nameWithType: IAppCanvas.DrawTo_ShouldUpdatePosition()
+- uid: UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition*
+  name: DrawTo_ShouldUpdatePosition
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_DrawTo_ShouldUpdatePosition_
+  commentId: Overload:UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.DrawTo_ShouldUpdatePosition
+  nameWithType: IAppCanvas.DrawTo_ShouldUpdatePosition
+- uid: UnitTesting.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:UnitTesting.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: UnitTesting.IAppCanvas.MoveTo(int, int)
+  fullName.vb: UnitTesting.IAppCanvas.MoveTo(Integer, Integer)
+  nameWithType: IAppCanvas.MoveTo(int, int)
+  nameWithType.vb: IAppCanvas.MoveTo(Integer, Integer)
+- uid: UnitTesting.IAppCanvas.MoveTo*
+  name: MoveTo
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_MoveTo_
+  commentId: Overload:UnitTesting.IAppCanvas.MoveTo
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.MoveTo
+  nameWithType: IAppCanvas.MoveTo
+- uid: UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition
+  name: MoveTo_ShouldUpdatePosition()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_MoveTo_ShouldUpdatePosition
+  commentId: M:UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition
+  fullName: UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition()
+  nameWithType: IAppCanvas.MoveTo_ShouldUpdatePosition()
+- uid: UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition*
+  name: MoveTo_ShouldUpdatePosition
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_MoveTo_ShouldUpdatePosition_
+  commentId: Overload:UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.MoveTo_ShouldUpdatePosition
+  nameWithType: IAppCanvas.MoveTo_ShouldUpdatePosition
+- uid: UnitTesting.IAppCanvas.Reset
+  name: Reset()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Reset
+  commentId: M:UnitTesting.IAppCanvas.Reset
+  fullName: UnitTesting.IAppCanvas.Reset()
+  nameWithType: IAppCanvas.Reset()
+- uid: UnitTesting.IAppCanvas.Reset*
+  name: Reset
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Reset_
+  commentId: Overload:UnitTesting.IAppCanvas.Reset
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Reset
+  nameWithType: IAppCanvas.Reset
+- uid: UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings
+  name: Reset_ShouldResetPositionAndSettings()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Reset_ShouldResetPositionAndSettings
+  commentId: M:UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings
+  fullName: UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings()
+  nameWithType: IAppCanvas.Reset_ShouldResetPositionAndSettings()
+- uid: UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings*
+  name: Reset_ShouldResetPositionAndSettings
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Reset_ShouldResetPositionAndSettings_
+  commentId: Overload:UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Reset_ShouldResetPositionAndSettings
+  nameWithType: IAppCanvas.Reset_ShouldResetPositionAndSettings
+- uid: UnitTesting.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:UnitTesting.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: UnitTesting.IAppCanvas.SetColour(int, int, int)
+  fullName.vb: UnitTesting.IAppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: IAppCanvas.SetColour(int, int, int)
+  nameWithType.vb: IAppCanvas.SetColour(Integer, Integer, Integer)
+- uid: UnitTesting.IAppCanvas.SetColour*
+  name: SetColour
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_SetColour_
+  commentId: Overload:UnitTesting.IAppCanvas.SetColour
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.SetColour
+  nameWithType: IAppCanvas.SetColour
+- uid: UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour
+  name: SetColour_ShouldUpdateColour()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_SetColour_ShouldUpdateColour
+  commentId: M:UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour
+  fullName: UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour()
+  nameWithType: IAppCanvas.SetColour_ShouldUpdateColour()
+- uid: UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour*
+  name: SetColour_ShouldUpdateColour
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_SetColour_ShouldUpdateColour_
+  commentId: Overload:UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.SetColour_ShouldUpdateColour
+  nameWithType: IAppCanvas.SetColour_ShouldUpdateColour
+- uid: UnitTesting.IAppCanvas.Setup
+  name: Setup()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Setup
+  commentId: M:UnitTesting.IAppCanvas.Setup
+  fullName: UnitTesting.IAppCanvas.Setup()
+  nameWithType: IAppCanvas.Setup()
+- uid: UnitTesting.IAppCanvas.Setup*
+  name: Setup
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Setup_
+  commentId: Overload:UnitTesting.IAppCanvas.Setup
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Setup
+  nameWithType: IAppCanvas.Setup
+- uid: UnitTesting.IAppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_WriteText_System_String_
+  commentId: M:UnitTesting.IAppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: UnitTesting.IAppCanvas.WriteText(string)
+  fullName.vb: UnitTesting.IAppCanvas.WriteText(String)
+  nameWithType: IAppCanvas.WriteText(string)
+  nameWithType.vb: IAppCanvas.WriteText(String)
+- uid: UnitTesting.IAppCanvas.WriteText*
+  name: WriteText
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_WriteText_
+  commentId: Overload:UnitTesting.IAppCanvas.WriteText
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.WriteText
+  nameWithType: IAppCanvas.WriteText
+- uid: UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError
+  name: WriteText_ShouldNotThrowError()
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_WriteText_ShouldNotThrowError
+  commentId: M:UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError
+  fullName: UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError()
+  nameWithType: IAppCanvas.WriteText_ShouldNotThrowError()
+- uid: UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError*
+  name: WriteText_ShouldNotThrowError
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_WriteText_ShouldNotThrowError_
+  commentId: Overload:UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.WriteText_ShouldNotThrowError
+  nameWithType: IAppCanvas.WriteText_ShouldNotThrowError
+- uid: UnitTesting.IAppCanvas.Xpos
+  name: Xpos
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Xpos
+  commentId: P:UnitTesting.IAppCanvas.Xpos
+  fullName: UnitTesting.IAppCanvas.Xpos
+  nameWithType: IAppCanvas.Xpos
+- uid: UnitTesting.IAppCanvas.Xpos*
+  name: Xpos
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Xpos_
+  commentId: Overload:UnitTesting.IAppCanvas.Xpos
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Xpos
+  nameWithType: IAppCanvas.Xpos
+- uid: UnitTesting.IAppCanvas.Ypos
+  name: Ypos
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Ypos
+  commentId: P:UnitTesting.IAppCanvas.Ypos
+  fullName: UnitTesting.IAppCanvas.Ypos
+  nameWithType: IAppCanvas.Ypos
+- uid: UnitTesting.IAppCanvas.Ypos*
+  name: Ypos
+  href: api/UnitTesting.IAppCanvas.html#UnitTesting_IAppCanvas_Ypos_
+  commentId: Overload:UnitTesting.IAppCanvas.Ypos
+  isSpec: "True"
+  fullName: UnitTesting.IAppCanvas.Ypos
+  nameWithType: IAppCanvas.Ypos
+- uid: UnitTesting.IDrawingCommand
+  name: IDrawingCommand
+  href: api/UnitTesting.IDrawingCommand.html
+  commentId: T:UnitTesting.IDrawingCommand
+  fullName: UnitTesting.IDrawingCommand
+  nameWithType: IDrawingCommand
+- uid: UnitTesting.IDrawingCommand.Execute
+  name: Execute()
+  href: api/UnitTesting.IDrawingCommand.html#UnitTesting_IDrawingCommand_Execute
+  commentId: M:UnitTesting.IDrawingCommand.Execute
+  fullName: UnitTesting.IDrawingCommand.Execute()
+  nameWithType: IDrawingCommand.Execute()
+- uid: UnitTesting.IDrawingCommand.Execute*
+  name: Execute
+  href: api/UnitTesting.IDrawingCommand.html#UnitTesting_IDrawingCommand_Execute_
+  commentId: Overload:UnitTesting.IDrawingCommand.Execute
+  isSpec: "True"
+  fullName: UnitTesting.IDrawingCommand.Execute
+  nameWithType: IDrawingCommand.Execute
+- uid: UnitTesting.IDrawingCommand.Undo
+  name: Undo()
+  href: api/UnitTesting.IDrawingCommand.html#UnitTesting_IDrawingCommand_Undo
+  commentId: M:UnitTesting.IDrawingCommand.Undo
+  fullName: UnitTesting.IDrawingCommand.Undo()
+  nameWithType: IDrawingCommand.Undo()
+- uid: UnitTesting.IDrawingCommand.Undo*
+  name: Undo
+  href: api/UnitTesting.IDrawingCommand.html#UnitTesting_IDrawingCommand_Undo_
+  commentId: Overload:UnitTesting.IDrawingCommand.Undo
+  isSpec: "True"
+  fullName: UnitTesting.IDrawingCommand.Undo
+  nameWithType: IDrawingCommand.Undo

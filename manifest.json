@@ -1,0 +1,492 @@
+{
+  "source_base_path": "C:/Users/1230s/source/repos",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BankAccountNS.BankAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BankAccountNS.BankAccount.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BankAccountNS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BankAccountNS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BankTests.BankAccountsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BankTests.BankAccountsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BankTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BankTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.AppCanvasBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.AppCanvasBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.Scenario1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.Scenario1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.Scenario2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.Scenario2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.Scenario3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.Scenario3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.Scenario4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.Scenario4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.UnrestrictedForScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.UnrestrictedForScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.UnrestrictedIfScenario1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.UnrestrictedIfScenario1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.UnrestrictedMethodScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.UnrestrictedMethodScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.UnrestrictedWhileScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.UnrestrictedWhileScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.VariablesManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.VariablesManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/BooseTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/BooseTesting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/Shubz_ASE.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/Shubz_ASE.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/Shubz_ASE.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/Shubz_ASE.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/Shubz_ASE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/Shubz_ASE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/UnitTesting.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/UnitTesting.AppCanvasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/UnitTesting.IAppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/UnitTesting.IAppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/UnitTesting.IDrawingCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/UnitTesting.IDrawingCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/UnitTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/UnitTesting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BankAccountNS.BankAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BankAccountNS.BankAccount.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BankAccountNS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BankAccountNS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BankTests.BankAccountsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BankTests.BankAccountsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BankTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BankTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.AppCanvasBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.AppCanvasBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.Scenario1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.Scenario1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.Scenario2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.Scenario2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.Scenario3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.Scenario3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.Scenario4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.Scenario4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.UnrestrictedForScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.UnrestrictedForScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.UnrestrictedIfScenario1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.UnrestrictedIfScenario1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.UnrestrictedMethodScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.UnrestrictedMethodScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.UnrestrictedWhileScenario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.UnrestrictedWhileScenario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.VariablesManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.VariablesManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTesting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Shubz_ASE.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Shubz_ASE.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Shubz_ASE.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Shubz_ASE.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Shubz_ASE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Shubz_ASE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTesting.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTesting.AppCanvasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTesting.IAppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTesting.IAppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTesting.IDrawingCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTesting.IDrawingCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTesting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
